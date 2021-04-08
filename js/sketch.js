@@ -1,7 +1,7 @@
 function setup() {
   // Sets the screen to be 720 pixels wide and 400 pixels high
   createCanvas(720, 400);
-  background(0);
+  background(255,0,0);
   noStroke();
   fill(204);
   triangle(18, 18, 18, 360, 81, 360);
